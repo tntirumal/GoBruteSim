@@ -1,0 +1,22 @@
+package utils // import "miniproject/utils"
+
+Package utils contains helper utilities used by the miniproject example.
+
+It exposes small, focused helpers for logging, hash conversions, mask-based
+password generation, and other runtime utilities that keep the demo code
+readable and reusable. The functions are intentionally simple and documented so
+`godoc` can generate human-readable documentation for the example.
+
+func CompareWithHash(hash1, hash2 *string) bool
+func ConvertToHash(password *string) *string
+func Debugf(format string, v ...any)
+func EncodeWithBase64(value *string) *string
+func Errorlog(format string, v ...any)
+func GenerateFromMask(mask string, charset string) <-chan string
+func GenerateRandomPassword(minLen, maxLen int) string
+func GetWorkerid() int64
+func Infof(format string, v ...any)
+func Init(l LogLevel)
+func Warnf(format string, v ...any)
+type LogLevel int
+    const Debug LogLevel = iota ...

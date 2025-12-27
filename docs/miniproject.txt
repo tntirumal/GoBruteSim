@@ -1,0 +1,9 @@
+Package main is the entry point for the `miniproject` brute-force simulator.
+It demonstrates initializing the logger and running an attack using the
+`attack.Engine` with a configured `attack.AttackConfig`. Run the program with an
+argument of `info` or `debug` to set the logging level.
+
+Usage:
+
+    go run . info
+    go run . debug

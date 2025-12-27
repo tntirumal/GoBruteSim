@@ -1,0 +1,17 @@
+go build -buildvcs=false ./...
+
+cd /mnt/HDD_data/sdb4_virtual_backup/projects/go_projects/src/miniproject
+go doc ./...
+
+go install golang.org/x/tools/cmd/godoc@latest
+
+godoc -http=:6060
+# then open: http://localhost:6060/pkg/miniproject/
+# or for a subpackage: http://localhost:6060/pkg/miniproject/attack
+
+cd /mnt/HDD_data/sdb4_virtual_backup/projects/go_projects/src/miniproject
+go doc -all ./ > miniproject-doc.txt
+
+#save as html
+
+leep 0.8; curl -sS -D - http://localhost:6060/pkg/miniproject/ -o /mnt/HDD_data/sdb4_virtual_backup/projects/go_projects/src/miniproject/docs/miniproject.html || true

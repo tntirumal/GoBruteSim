@@ -1,0 +1,534 @@
+APP: 2025/12/26 10:23:22 logger.go:69: [INFO] Starting application
+APP: 2025/12/26 10:44:54 main.go:11: [INFO] Starting application
+Brute-Force Simulator: 2025/12/26 10:49:58 main.go:11: [INFO] Starting application
+Brute-Force Simulator: 2025/12/26 12:19:51 main.go:27: [INFO] Starting application and started at 2025-12-26T12:19:51+05:30
+Brute-Force Simulator: 2025/12/26 12:20:15 main.go:27: [INFO] Starting application and started at 2025-12-26T12:20:15+05:30
+Brute-Force Simulator: 2025/12/26 12:20:19 main.go:27: [INFO] Starting application and started at 2025-12-26T12:20:19+05:30
+Brute-Force Simulator: 2025/12/26 12:20:22 main.go:27: [INFO] Starting application and started at 2025-12-26T12:20:22+05:30
+Brute-Force Simulator: 2025/12/26 12:20:27 main.go:27: [INFO] Starting application and started at 2025-12-26T12:20:27+05:30
+Brute-Force Simulator: 2025/12/26 12:54:37 main.go:30: [INFO] Starting application and started at 2025-12-26T12:54:37+05:30
+Brute-Force Simulator: 2025/12/26 13:27:27 main.go:30: [INFO] Starting application and started at 2025-12-26T13:27:27+05:30
+Brute-Force Simulator: 2025/12/26 14:08:50 main.go:30: [INFO] Starting application and started at 2025-12-26T14:08:50+05:30
+Brute-Force Simulator: 2025/12/26 21:39:12 main.go:27: [INFO] Application started
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc912 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 engine.go:27: [INFO] Starting attack with 10 workers
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 6 started
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abaa12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 5 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 1 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 2 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 3 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 4 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 8 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 7 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 9 started
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:22: [INFO] Worker 10 started
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abab12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abac12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abad12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abae12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abaf12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abag12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abah12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abai12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abaj12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 7c89f8f936d3e0c90121a1a314bedbf9ad048484bfc18af29ddc55eb03c0e494 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 59ccae2cf8b9b213d7b212e1724334f65988029114095616cefc8f74dc59dbd2 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 73c6e03ded9e20ca3891e1c8546a4e6e60d68aa563b289951410ba608e12290f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string a0a44556a5697d368b360e8525423e10d9072ed0d5c4e0c2c7ec634a8959caaf and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 41ad81b3b78c3e7d80048ca1aad7b6920c928acdff30f9e1cabc21626b4bd88e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 9eefa4b3c7c8d2b17fa3f3ada5b16abc870b63b02c51cba79a6e06ddfed18ce5 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 8a81ced9bfd13ef2311069a9d17e7b921f75b323d9af0865667c58708471249f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string e21c2546dc24fbaa535013c4890adca4231e85d129a9b74aa55af670fc05762e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 2bac718f42e9b189114f5e7b6e9d9254081a41c137b67e973499b6d3a4d288d0 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 2e0f1359e7296b066c6608ad0c63d22ece55f4f33d15b033d559b3ebabd86937 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abak12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abal12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abam12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aban12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abao12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abap12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abaq12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abar12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abas12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abat12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b26ba00496d99506ba826328d030f5a62b1190f92f15b4f129ea2f60d60b26af and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abau12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 3da85fb9282e9ee6994883b976140ebfc3d897d8a2dd15d73d3dd37e6704fd69 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 146ed1934592979cac6468de214715614e8ce612a8fde6225270e93ef25cda54 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abav12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 9f95e7b6f60d76dd37aea46447d5d8eed7e69141b251e1651faabd032e578d6a and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 6510c26dc83cf5d21f681248331d6f96228816be1e5640088cfead1329a69b58 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 91cdcde1246dc100d2d46a12cde08d4ead32d96be6881b1726bbbc9dec4e9473 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 454c3d44891744ef1644cda18640e2f699b15a41d9896d1c87a5d9dab77e4725 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 69e6f60ddfe6231a30981e0c3706c76f850da1cf0a3db363d7c5a33257ae86cf and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 9be51945b8812c9a698c722c1d448c19d171d856f761c54dc6531767bc015ca8 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string c32a834c9f061f327e7ab962ddd13a5ac0aa8cf49198ebb2b5ed2218be055c03 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 34f5365c51f19aaf86b9bc7c0438de854b370e67550723dec41e486b72938000 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string d83776c83ca685d22b8da020a4ff702988ec69d78c68803e45bd1719c9f7e739 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abaw12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abax12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b889d559b7b9c7073dd8b27addbdaa5d265d17c24c6f30b703eb0df37c4bc905 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string febccdab7ee03b0f7a3542c5d28aa4328a2b859b414cea8ace422b465e700e2a and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba612 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abay12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abaz12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba012 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba112 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba212 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba312 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba412 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba512 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string ebd6c9601461754846214533ceb49a11025fc63c2c102ca5a076a8dab5b00245 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba812 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba712 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b9fae7963c0e791bc4af09f8313b9e90a4e89ac9532264ee4b777d039e55ed0f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 5dc93ac6399158512f801f5517580e62ed999ab8213f3835d2007debf842c0c8 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 759da3603dca6a1152f8f605fefcd6c08131996e3ab1e39cc039041a3ad54ea9 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string c8ba9d6db88c08622e7bd01c3ce3e95677c0bb1a855260598850471c69bd34d5 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string a7383057d65e9e492ca568acd40552660cb194aebff0f5bcee1b5fe3f34ddf4e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string caeb9354f2b82ccd890034859330fa481de83161512c3e285ede0c37578add1d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string cc3c1e977070f27e66325c0d61eb204ae02193a4597bd4c95b82a03e25c34b2d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 4b0ae3b168d68a2381314b434535f21909af0e1d5eea7242a74de74b613e6104 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string bfada5bf0ffed4c4322806f3fd5c714b24b537aadc06b11964b19415c909234f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 6151b882fef2952bb5c50a8306da65a86d4ccc2c3f3860eedf0ea1b95fe54aed and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Aba912 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abba12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbb12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbc12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbd12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbe12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbf12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbg12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbh12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbi12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 8844b2635caf4732770f152146d12ddf3fe43e7f0cd5f224a232ab41331dbe15 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 4954fa6b8c39dd1269916cfd3abc543d38487d189d9a03e20ff789e5a4370957 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 045e8fb5c0763a101e8d221f6e5b9bf2746113f521d63288449a5af28cde82f8 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbj12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 129f44b20f91c5842aca6b70ca2828a415567db0fc4791cac8007682eff5ba2a and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b004be0d40b1a2e0f10fb01de03fc1a70581cb2ab87eb80cb9b1b0cf9612a4a2 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 15058678f78699380b599b79fd154205b58295501ea98231506d5b087a0d0805 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string aab43e9af07436270fa5a67479d194ef4200663fffe84a0f4890b14acffbec6e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 9f90c563eec3d939d07151f5ccddf6daf0e545c72dd53140372ca7d82d8cc3ef and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b6ccd6e5201e84ec230fd3c5f592bfb8a45ea77269b39ee684e7fafcf3977d4d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 25a432807c94832626dc6b23c8f48ff98c832975cd09b8620d4da8e716cbc0c4 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 8831c4de7c29f9f117d45d71972d904e7306f8122b5f7c2dce28ee789cf1e823 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbk12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbl12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbm12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbn12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 69a31d6a95fdb3996b872134a75283c4d6956ab7c6c46a136ead77cbec12bb51 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbo12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b6649d4bc471e4715defac08b9d1ee9d04d6008377870d24b062097abde7b9cd and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbu12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbp12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbq12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbr12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbs12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbt12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string e878f7d3da8eb19e132bf07b5458933945a1f4487ecd26ac5cf4019b1139f7e9 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 319d839b82bb9cc570fa6957fa428eb24382efe184c34689712f1ffc8442b097 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 870adace5d424fd96bd6d24ad70cb5cc8345e7674f62e111f1957ceca5df9551 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbv12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 54e915bf5fd9422d0968849677f9ec06c3b2a2c85f2737b607124e8d04e926fc and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 79ad514eceeb54fd72d63f5704f6ad6e53cd6589e8d55144e94fbd3ce16592f1 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 0d469ad03de7117d86c0b7a70353954e5b4ccd587f6481886d0dd6a66b28e88f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 96b0663ad71d620bdf2f9a6680d6ce991b433d46ec2ac19f162ed11fc58338f7 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 7ea0781592768606c908f5fb3552ae00d358e6e0ca922b66353d842e3910722e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 32292dd68cdcb5b5658b46e75211509a0bd2cd14f25caf5b8a6bd3e7ac692867 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbw12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 74583331078a6368fa8ce762178486a2ff178d69b4e2f227e486b69618b57d9c and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbx12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abby12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abbz12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb012 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb112 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb212 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb312 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb412 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 2e625ccc69f8225250260933478336f53615632ac25a0cf2e8c0d98716ded598 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb512 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 578b77c1407f96a2033991293ffe7ba7c93805f4391856d02039e68ca3d962b7 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 6280d4e36fa9c0975fc21d8bb591d4af1a70294cc06d845dec35c768475b3606 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 16c1dfa28f511d855f6ce69c7cdb3fe421b45e1c72cdbaa658c3d17b1f467143 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 0dd09f2607886a5eb15e9314a7cd3a43e0316c58891c5f744a08b990551b8c41 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 0bf1d8f63756b9113a22d2406442d01dfd3fb2237337484721d06cc3c8b8df40 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string c1df2fd3234aca31455790d5aba342e518fde2e4e4a3ca527d22d6f3f32aa635 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b83a0189bd0fe5a99304befedaf8b674f7f6575555f51a18a651b3e0eeb19789 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 01a3a9a35dd9c1d2dbfc5cb145b4b3ad236e897a423f4514fb3503357da45d4a and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb612 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 96b8524a07b403b482ff4c279d2d0a58314a106cb8e58b04966fadee1e015444 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb712 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb812 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abb912 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abca12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcb12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcc12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcd12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abce12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 981b88c909e27b6150916f525e93a3d302249a58aa902ea958b17d91df022115 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcg12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcf12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 76a688e8ead97a3e6dbc0ff576fbd47e49c4fe851fef5cd7883b9e34a89c52a2 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string e759e80de21394ecf8f827621e78d8b668d3263ac9419ad23d8dec9f16acf875 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 8654a3c4b547a4000cfeadc1ebc3abc1fd7074ef0a2abdec56964d591623ce77 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 485253b309002769c5ce156e277431d0d05c1c7dbb5705688fb749ac4a43244e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 6e9dc0a03bbce591778118e9e266e2264c1ee6e70d5e3f866fc735198b35ce13 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string f8e7b7853bee6c363d43bac094816bb3754bd94310b8a0ab8f554a0b53448463 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 33628edda7e74b09ebc7b5768d8d8a11d1def4ab0dc1aa7708d906bce89fd957 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string e7a689c942b2d5b109e21de95f5b6441a59094c17cd4d571c17cfbbc026d6be0 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abch12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 93e780d1806f04b5dce333d78dca372915071ee872f14641dce5d30ffdf435fe and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 3fb3e144b4cf4031b18576533c1d7fffbc32509fcbadf2343e080768662fd8c7 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abci12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcj12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abck12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcl12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcm12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcn12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abco12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string fd4e66fac9274b262ab5e4e4a4d9ed1602b159006baff5e7364c5ff72a1e8cce and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcp12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcq12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 1cc8eaa045daa6004cf893093035a777a4c58b1b80d9f69261d88fcb05ea1bb9 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 1625ba9e60447c83c204c397b6661d63133d66579f6ef80a707566fcbcede6e1 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string ee5e60c75d13814049274ab0fb09b898a00257de94a28e536c2ccd6a829fc7c8 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string a5ecb4bfb154c44a5799a7a3a58f08be8ea8a00c1b362a8e026b903fe2dda0c1 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b4b48aa7cb704bf498192356fd50befbcf6fddb0af16c4b57a6d79aadefa0419 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string b1c8c939b90183686ebbdfd046f6430389d14fa670bd9e577ce1c93456b9a089 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 243cf9dd65e0968a6f8ce88962c8caa88393679b1387f2571ea567c83219b316 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcr12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 04b987d255a0479fa078c810fb4c9739d422883372be2abaca09ec2d7fd2696e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string d3887ed39d54c2bee6e04c388b364a6916aa8b50d7b80881c60171bb1a7a316d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcs12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abct12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcu12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcv12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcw12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcx12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcy12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 30ee2c838acdbe8eacb55fa6b4e35be36079fa6f5adc12cec6c14855bf70a74c and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abcz12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc012 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string d20d2d75ea78d96bca132e0a674cadf88c6696e3393929414f536cbe81eaf423 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 1d93b201acabe5ece8fef3ddff5cef2e9e6379374238250c86845527c76adaab and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 54eb79dc644ad42dcb8c955d3fbb6cbbd7618a5a50a8015c16d5cc618934a541 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string aaf9cff79d0a2dd8b5c003c9e6d515543147e2700f625735890799a022bf0426 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string ecd3958885f587481f37eff89f2327b9ab5f0c9ac98a4a172bff657a152e9eb4 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 19371caa12c926f8c47ef5085f791cb8e0100d308516919e6cff36ab630a5b17 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string a8f6e208a29b8471d18080300036274b79de3cba89648fd118c8e2be52b6843b and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc112 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 6d78eabd5b2ec5283fd4496dc93ddd7cafc3843e6727256cc90e09840d65af1f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string bb8b0bb8d8b1844d95329f1fc36c04776d8e0e4bebbdb1d4e93e77c968712f5a and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc212 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc312 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc412 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 2255e83bfe435eef48761174174b481f92e29895fe06898ac09f38ff6fb1e7a1 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdb12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abda12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc612 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc712 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc812 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 3fbe192fb124c9e242d42d1a14fa9810e27635c05d080e9c33c3799785e651bb and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc912 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abc512 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string a294b7a9c5e0d8b87136ccc8eafeb9ff45479e3bf02ae8546fc098087cd29c9f and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 333368761aa7eb92cdcc05c703c434f18d04cbbe5627483caa1dc89a5f290e8d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 7f36f7402ac340fbdac812afbf040d58e7228a67c5c4aaf0bb0d7a92ebda737e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 7941bed4240c2aee02f0a263b5aa27fbd34fba059ce1dcb22df35d0cf121ff9b and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdc12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 79b7a8d5b947aa7d69929c0828261ce78908684fe40aa5113995b01df728821c and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 69e6145e25bf2140a969c66b0e8976b6ea7afa5b0a9dda748bfc686b0031fe1d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 77b5d8a9d6886c29cf3bb62326379c3e4466e464077be52298a05733e4c821c4 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdd12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string de97af6cdf98efa8c9ec37e2d40e04f1fc9be63f9e31498a91fa6fdf0f09cedb and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 4ac8f580d31849acae5ac4ebe607816709ce7142f5df7c53e97226cf9148eb16 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abde12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdf12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:22: [INFO] Hashes match!
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdg12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdh12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdi12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdj12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 19c03965a365d8897bd7333da4f27cace077b310f6d3134f463a0d28317bef2c and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:39: [INFO] Worker 9 FOUND PASSWORD: Abc912
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdk12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdl12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 29d66d6c7c36e4a379c1e8ea58e1068a244a72346337ace3ace32b0e5bb96766 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 87f391f070b33fba4ab1f61f508abe6152440f8578733bb0a79993fa6987a9cb and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string a0ae21d48020788836bf1eca6f556f3371086ece5aaff8d585ca91ad99e0ca1e and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string ddd0ae84ee347ba0d1265af08218fe1dc39d4c955c0139c6b93689622414fc29 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string af4ff6b0f8d12c3b9956f9a2d5ca95e2ff25fc4d60d777d2096af014799be1a0 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string ef5911b99c14ab4781d4717591033a28f6f4dd81ddf836c9588d2684317e370d and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 7 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string de99debc8c755b3ae1939e1928ee4ababb6b6ebd158a913689ec45abdd4a2781 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string e076e5fd3fcf6210d53296df238c29e43deee26bfa7b06fb78f8ac4bea1a01da and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdm12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 3 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 6 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 5 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 10 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 2 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdn12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdo12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 22493f7d83d1bcf52fe5c19b980c340fd36f88792e51b413d26fb1f1229872b6 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 1 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 3fccbb511feb5d1fc2b25defcab1ef7190611176fbf09815b2c73a9896815de7 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 4 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string 7c1a5e1d0d5ccf7e25a969268b11670e8bb8548b790d9a676dc54d5aca0e8faf and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:32: [INFO] Converting the Abdp12 to hash 
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:39: [INFO] Given text has been converted to has successfully
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:19: [INFO] Starting to comapre for the string d11a3d1f393edc719b702d4bb0ea7761155d639438df6ceb7ee005509ae28d49 and 98f488dac5e892d1b5197ff29c707984819b6493473562c5eaf94e814ddafaeb
+Brute-Force Simulator: 2025/12/26 21:39:12 impfunc.go:25: [WARN] Hashes do not match!.. Ignoring
+Brute-Force Simulator: 2025/12/26 21:39:12 worker.go:27: [WARN] Worker 8 stopping
+Brute-Force Simulator: 2025/12/26 21:39:12 main.go:49: [INFO] PASSWORD FOUND: Abc912
+Brute-Force Simulator: 2025/12/26 21:39:12 main.go:50: [INFO] Attempts: 124
+Brute-Force Simulator: 2025/12/26 21:39:12 main.go:51: [INFO] Duration: 114.980429ms
